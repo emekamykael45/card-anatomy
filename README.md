@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Card Anatomy
+
+Built a card component in React to cater to the different scenarios of the content of a card.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
