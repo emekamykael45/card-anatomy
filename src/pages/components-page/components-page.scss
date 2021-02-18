@@ -1,0 +1,12 @@
+.components_page {
+	.cards_section {
+		padding: 70px 0px;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 30px;
+
+		@media screen and (max-width: 767px) {
+			grid-template-columns: repeat(1, 1fr);
+		}
+	}
+}
